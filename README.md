@@ -1,6 +1,6 @@
 # Gerador de QR Code, projeto em React JS.
 
-<img src="" alt="exemple">
+<img src="https://raw.githubusercontent.com/losanthiago/qrcode-generator-react/master/exemple.png" alt="exemple">
 
 Code made in order to improve skills in ReactJS.
 All code and build performed on top of the build in React JS.
